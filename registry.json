@@ -17,15 +17,15 @@
         },{
           "path":"registry/default/syntax-highlighter.woff2",
           "type":"registry:file",
-          "target":"~/components/ui/fonts/syntax-highlighter.woff2"
+          "target":"~/src/components/ui/fonts/syntax-highlighter.woff2"
         }, { 
           "path":"registry/default/syntax-highlighter-night-owl.woff2",
           "type":"registry:file",
-          "target":"~/components/ui/fonts/syntax-highlighter-night-owl.woff2"
+          "target":"~/src/components/ui/fonts/syntax-highlighter-night-owl.woff2"
         }, {
           "path":"registry/default/syntax-highlighter-light-owl.woff2",
           "type":"registry:file",
-          "target":"~/components/ui/fonts/syntax-highlighter-light-owl.woff2"
+          "target":"~/src/components/ui/fonts/syntax-highlighter-light-owl.woff2"
         }
       ]
     }
