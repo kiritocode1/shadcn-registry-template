@@ -10,19 +10,19 @@ export interface SyntaxHighlighterProps {
 
 
 const myHighlighterFont = localFont({
-    src: "./syntax-highlighter.woff2",
+    src: "./fonts/syntax-highlighter.woff2",
     display: "swap",
     variable: "--font-syntax-highlighter",
 	});
 
     const myNightOwlFont = localFont({
-        src: "./syntax-highlighter-night-owl.woff2",
+        src: "./fonts/syntax-highlighter-night-owl.woff2",
         display: "swap",
         variable: "--font-syntax-highlighter-night-owl",
     });
 
     const myLightOwlFont = localFont({
-        src: "./syntax-highlighter-light-owl.woff2",
+        src: "./fonts/syntax-highlighter-light-owl.woff2",
         display: "swap",
         variable: "--font-syntax-highlighter-light-owl",
     });
